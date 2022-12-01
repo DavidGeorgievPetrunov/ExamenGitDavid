@@ -1,1 +1,33 @@
 # ExamenGitDavid
+# Creacion del repositorio
+
+En la pagina clickamos el simbolo "+" y sale la opcion de "New repository"
+![Foto1](./CreacionRepositorio.png)
+Cuando clickamos esta opcion saldra esta pantalla donde añadimos el nombre y el readme.md
+![Foto2](./CreacionRepositorio2.png)
+Se creara un repositorio y en el clickaremos Code y lo copiaremos para luego clonar el repositorio
+
+![Foto3](./URLClone.png)
+
+# Primeros Comandos; CLONE
+
+Haremos el git init para inicializar un repositorio
+![Foto4](./GitInit.png)
+
+Ahora usamos el clone para clonar el repositorio en nuestra area de trabajo
+![Foto5](./GitClone.png)
+
+Aqui esta una imagen del repositorio clonado con las imagenes que he echo hasta ahora y el Readme.md
+![Foto6](./CarpetaClonadaYFotos.png)
+
+# Primeros Comandos; Haciendo Status, Add, Commit, Log y Push
+
+Ahora haremos un status donde mostrara las imagenes que estaban en la carpeta sin subir al repositorio
+![Foto7](./GitStatus.png)
+
+Ahora hacemos un add . para añadir todos los archivos y luego el commit para hacer un commit
+![Foto8](./GitAddYCommit1.png)
+
+Ahora utilizamos push para subir el commit que hemos echo, el log lo hago despues ya que me habia olvidado, esto permite ver que de echo habia echo el commit correctamente, ademas me permite ver que mi repositorio esta en el ultimo commit.
+![Foto9](./GitPushYLog.png)
+
