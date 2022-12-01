@@ -31,3 +31,11 @@ Ahora hacemos un add . para añadir todos los archivos y luego el commit para ha
 Ahora utilizamos push para subir el commit que hemos echo, el log lo hago despues ya que me habia olvidado, esto permite ver que de echo habia echo el commit correctamente, ademas me permite ver que mi repositorio esta en el ultimo commit.
 ![Foto9](./GitPushYLog.png)
 
+# Finalizando la parte 1
+
+Status del readme.md actualizado y las nuevas fotos
+![Foto10](./GitStatus2.png)
+Haciendo el add, commit y log
+![Foto11](./GitAdd,Commit,log2.png)
+Haciendo el push
+![Foto12](./GitPush2.png)
