@@ -39,3 +39,14 @@ Haciendo el add, commit y log
 ![Foto11](./GitAdd,Commit,log2.png)
 Haciendo el push
 ![Foto12](./GitPush2.png)
+
+# PARTE2 
+
+Comprobando la cantidad de Commits con log oneline all, sale un commit mas que antes ya que son las imagenes y cambios de yo acabando la parte 1 del readme
+
+![Foto13](./GitLogOnelineAll.png)
+
+Aqui vemos el readme en el commit actual 
+
+![Foto14](./CatReadme.png)
+
