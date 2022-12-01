@@ -50,3 +50,24 @@ Aqui vemos el readme en el commit actual
 
 ![Foto14](./CatReadme.png)
 
+# PARTE2
+
+Commit 3 viend oel readme
+![Foto15](./CheckoutCat.png)
+Commit 4 viendo el readme
+![Foto16](./Checkout2.png)
+
+![Foto17](./Cat.png)
+
+Log para ver que estoy en el commit 4
+![Foto18](./Log.png)
+
+Volviend a Main
+
+![Foto19](./MainLog.png)
+
+# PARTE 3
+
+Working Directroy: el lugar donde trabajamos
+Staged area: el area de pruebas para editar cosas sin que se suban al repositorio y se cambien
+Repositorio local: el repositorio de nuestro dispositivo donde estamos
